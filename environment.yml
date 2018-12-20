@@ -4,4 +4,7 @@ channels:
 dependencies:
   - python=3.6
   - osmnx
-
+  - geopandas
+  - geoplot
+  - pysal
+  - folium
